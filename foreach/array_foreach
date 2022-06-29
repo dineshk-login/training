@@ -1,0 +1,8 @@
+
+<?php
+$family = array("riya", "selvam", "boopathy", "pranav");
+
+foreach ($family as $value) {
+  echo "$value <br>";
+}
+?>

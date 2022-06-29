@@ -1,0 +1,22 @@
+.bg {
+  background-image: url("https://p.kindpng.com/picc/s/193-1939093_indian-lorry-png-transparent-png.png ") ;
+  background-color: #cccccc;
+  width: 100%;
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;width: 100%;min-height: 500px;
+}
+.align{
+  align-content:center;
+  background-color: lightgray; width: 30%;>
+}
+p {
+  font-family: inherit;
+  color: #282528;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: .5px;
+  line-height: 1.8;
+  margin: 0 0 10px;
+}
